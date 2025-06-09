@@ -25,14 +25,12 @@ All future development and community support has moved to our Telegram server:
 ## ❓ FAQ
 
 ### Why Doenerium went into TOKGrabber?
-[Brief explanation - e.g., "We've shifted our focus to newer technologies..."]
+["We've shifted our focus to newer technologies..."]
 
 ### Is there any risk in using old versions?
 **Yes.** Doenerium source is outdated and not supports latest patches:
-- Security updates :cite[1]
-- Bug fixes
-- Feature enhancements
+- Doener has many Bugs
+- Has been flagged by most antivirus vendors already
 
 ### How do I migrate?
 Join our Telegram group above for migration guides to our new solutions.
-
