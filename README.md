@@ -1,3 +1,17 @@
+<h1 align="center">✨ Doenerium NEW ✨</h1>
+
+<p align="center">
+  <kbd>
+    <img src="https://i.imgur.com/UZDASI7.png" width="420">
+  </kbd>
+</p>
+
+<p align="center">
+  <a href="https://t.me/tokgrabber" target="_blank">✨ Join our newest Telegram ✨</a>
+</p>
+
+---
+
 # 🚨 Doenerium Infograbber - Project Discontinued 🚨
 
 ![Warning](https://img.shields.io/badge/status-discontinued-red) 
