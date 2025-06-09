@@ -9,30 +9,26 @@
 
 Doenerium Infograbber was a [brief description of original purpose]. Due to [reason for discontinuation], we've decided to sunset this project effective immediately.
 
-Key features that were previously available:
-- Feature 1
-- Feature 2
-- Feature 3
 
-## 🔗 New Home on Telegram
+## 🔗 New InfoGrabber Called TOKGrabber
 
 All future development and community support has moved to our Telegram server:
 
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue?logo=telegram)](https://t.me/your_new_server_link)
+[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue?logo=telegram)](https://t.me/tokgrabber)
 
 **Why join?**
-- Live developer support
-- Early access to new projects
+- Better Then Doenerium
+- Maas
 - Community discussions
-- Latest security updates
+- Supporting Latest updates
 
 ## ❓ FAQ
 
-### Why was this project discontinued?
+### Why Doenerium went into TOKGrabber?
 [Brief explanation - e.g., "We've shifted our focus to newer technologies..."]
 
 ### Is there any risk in using old versions?
-**Yes.** This project will no longer receive:
+**Yes.** Doenerium source is outdated and not supports latest patches:
 - Security updates :cite[1]
 - Bug fixes
 - Feature enhancements
@@ -40,11 +36,3 @@ All future development and community support has moved to our Telegram server:
 ### How do I migrate?
 Join our Telegram group above for migration guides to our new solutions.
 
-## 📜 Legacy Code Notice
-
-```rust
-// Example legacy code snippet showing deprecation warning
-fn main() {
-    #[deprecated(since = "2025-06-10", note = "Project discontinued - use new solutions")]
-    println!("Doenerium Infograbber v1.0");
-}
